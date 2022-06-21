@@ -26,4 +26,6 @@ function App() {
 
 }
 
+// Main application
+
 export default App;
